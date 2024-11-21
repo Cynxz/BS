@@ -1,4 +1,3 @@
-setfpscap(0)
 --The start of something new....
 --13 November 2021
 --Credits :
@@ -44,7 +43,7 @@ end
 
 
 -- Identifiy our executor
-local executor = syn and "Synapse" or nil
+local executor = syn and "Atlantis" or nil
 local platform = "Windows"
 if not executor then
 	executor, platform = identifyexecutor()
